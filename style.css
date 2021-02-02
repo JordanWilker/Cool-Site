@@ -4,6 +4,7 @@
 
 body{
     background-color: white;
+    ;
 }
 .title-color{
     color: white;
@@ -27,6 +28,7 @@ body{
 }
 .header-size{
     padding:80;
+    width: 98vw;
 }
 .line{
     background-color: #cfe1f2;
@@ -38,8 +40,9 @@ body{
 .line2{
     background-color:#1c4587 ;
     height:100px;
-    width:100%;
+    width: 98vw;
     position:fixed;
+    top:90%
 }
 .image-box{
     
